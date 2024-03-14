@@ -22,5 +22,5 @@ Contributors are expected to adhere to the DNC's Code of Conduct, fostering a re
 All work in this repository is owned by the DNC and is subject to the terms and conditions specified by the DNC.
 **Contact:**
 For inquiries or assistance regarding this work product, please contact Claire De Pree:
-Email: claire.depree@dnc.org
+Email: clairedepree5@gmail.com
 Phone: +1 (404) 578-6225
